@@ -20,8 +20,9 @@
 
 双击 `WritingStudio.exe`，等待几秒钟应用自动启动。
 
-<!-- 启动界面截图 -->
-![启动界面](screenshots/startup.png)
+<img width="660" height="537" alt="image" src="https://github.com/user-attachments/assets/01a966f0-69c6-4951-9951-6b1d38f2b681" />
+
+
 
 ### 第二步：配置 API Key
 
